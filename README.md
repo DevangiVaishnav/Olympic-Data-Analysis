@@ -1,7 +1,7 @@
 
 # Olympic-Data-Analysis
 
-Analysis of 120 years of olympic data. The dataset is taken from kaggle. User can see overall analysis, countrywise analysis and athletewise analysis by graph plots, heatmap, table, etc.
+Analysis of 120 years of olympic data. The dataset is taken from kaggle. In this there are two csv files in which athlete_events is main file which contain all the data of olympics and the other one noc_regions is for region means full form of every National Olympic Committee. User can see overall analysis, countrywise analysis and athletewise analysis by graph plots, heatmap, table, etc.
 
 
 
